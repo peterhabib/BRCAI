@@ -1,5 +1,6 @@
-# Example Package
+#BRCAI: Mchine learning-dependent software to predict the malignancy calss of breast cancer
 
-This is a simple example package. You can use
+#Usage: python3 predict.py [Data File] [Output File]
+
 [Github-flavored Markdown](https://github.com/peterhabib/BRCAI)
-to write your content.
+
